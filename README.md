@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a Berlin-based software engineer who loves to do Kotlin (especially Multiplatform) or play with Rust from time to time.
+While my profile says "Mobile" my heart beats for Backend and my passion is open source!
+You can chat with me also about TDD which I have been doing now for over 5 years or any other XTreme practice.
+
 <!--
 **bitPogo/bitpogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
